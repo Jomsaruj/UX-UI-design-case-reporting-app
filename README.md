@@ -17,6 +17,6 @@ First and foremost, the research topic for this lab is  “How do people discove
 * usability test
 * Final design
 
-### Wire flow example
+### Final wire flow
 
 <img width="472" alt="1" src="https://user-images.githubusercontent.com/59832457/142926914-5bdaf802-0f15-455c-a2c7-276f9a34e6dd.png">
