@@ -2,9 +2,12 @@
 
 ### Contents
 
+### Lab 1-3
 * User research
 * personas
 * user journey
+
+### Lab 4-6
 * wireframing
 * wireflow
 * usability test
